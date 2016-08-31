@@ -114,6 +114,7 @@ function rec_captcha()
     if (match_flag > 0)
     {
       console.log('Click ', idx);
+      captchas[idx].parentNode.style.backgroundColor = "#D93600"
       captchas[idx].parentNode.click(); // click A E
     } //ctx.putImageData(imgData, 0, 0);
 
