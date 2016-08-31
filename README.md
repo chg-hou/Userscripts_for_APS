@@ -7,8 +7,8 @@ Usefull scripts for accessing articles of American Physical Society (aps.org).
 
 | File       |  Description           |  Links for Greasemonkey/Tampermonkey|
 | ------------- |-------------|:-------------:|
-| auto_fulltext.js | Expanding fulltext without clicking "HTML" | [link](https://github.com/chg-hou/Userscripts_for_APS/raw/master/auto_fulltext.user.js)|
-| click_on_the_image_of_Albert_Einstein.js | Recognizing "Albert Einstein" in captchas | [link](https://github.com/chg-hou/Userscripts_for_APS/raw/master/click_on_the_image_of_Albert_Einstein.user.js) |
+| auto_fulltext | Expanding fulltext without clicking "HTML" | [link](https://github.com/chg-hou/Userscripts_for_APS/raw/master/auto_fulltext.user.js)|
+| click_on_the_image_of_Albert_Einstein | Recognizing "Albert Einstein" in captchas | [link](https://github.com/chg-hou/Userscripts_for_APS/raw/master/click_on_the_image_of_Albert_Einstein.user.js) |
 
 
 -----------------------------------
