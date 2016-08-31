@@ -21,6 +21,7 @@ Tired of APS's time-wasting verificatioin, which can be bypassed wihtout any adv
 -----------------------------------
 ## Installation Instructions
 
-#### 1. Install (Greasemonkey)[https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/] (FireFox) / (Tampermonkey)[https://tampermonkey.net/] (Chrome).
+#### 1. Install [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) (FireFox) / [Tampermonkey](https://tampermonkey.net/) (Chrome).
 #### 2. Click links in the table above, and install.
+#### 3. Modify matching rules in lines beginning with "// @include   ". See here ([https://wiki.greasespot.net/Include_and_exclude_rules](https://wiki.greasespot.net/Include_and_exclude_rules)) for detailed include and exclude rules.
   
