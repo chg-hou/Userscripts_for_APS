@@ -1,6 +1,6 @@
 # Userscripts for APS
 
-Usefull scripts for acessing articles of American Physical Society (aps.org).
+Usefull scripts for accessing articles of American Physical Society (aps.org).
 
 -----------------------------------
 
